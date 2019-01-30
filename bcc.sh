@@ -1,3 +1,3 @@
 #!/bin/bash
-apt-get install raspberrypi-kernel-headers
+apt install raspberrypi-kernel-headers
 
